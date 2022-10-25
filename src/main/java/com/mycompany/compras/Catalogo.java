@@ -1,13 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.compras;
-
+import java.util.Stack;
 /**
  *
  * @author sala8
  */
 public class Catalogo {
-    private String ArrayList;
+    Stack lista=new Stack<>();
 }
